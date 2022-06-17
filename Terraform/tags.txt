@@ -1,0 +1,6 @@
+
+  tags = {
+    environment = "Development"
+    company = "elitesolutionsit"
+    ManagedWith = "terraform"
+  } 
