@@ -1,5 +1,0 @@
-distinct(["a", "b", "a", "c", "d", "b"])
-
-elite-elite-dev-resourcegroup
-
-distinct(["elite", "elite", "dev", "resourcegroup"])

@@ -1,3 +1,0 @@
-compact(["a", "", "b", "c"])
-
-compact(["tammie", "", "arrey", "louis"])
