@@ -1,4 +1,0 @@
-upper("tammie")
-upper("arrey")
-
-upper("elite-dev-general-resource")

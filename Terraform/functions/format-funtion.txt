@@ -1,3 +1,0 @@
-format("Hello, %s!", "Ander")
-
-format("Hello, %sten", "Ander")
